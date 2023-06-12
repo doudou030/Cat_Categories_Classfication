@@ -20,6 +20,10 @@
   - loss: 2.5512 - accuracy: 0.4369
   - val_loss: 2.7777 - val_accuracy: 0.4244
 
+## Demo
+![](https://github.com/doudou030/Cat_Categories_Classfication/blob/main/img/demo.png?raw=true)
+![](https://github.com/doudou030/Cat_Categories_Classfication/blob/main/img/single_demo.png?raw=true)
+
 ## dataset
 [coco dataset](https://cocodataset.org/#home)
 
