@@ -2,6 +2,11 @@
 
 ## requirement
 先下載一些需要用的套件與dataset
+- tensorflow
+- tf2_yolov4
+- cv2
+- matplotlib
+- numpy
 
 ## code
 - yolov4.py
