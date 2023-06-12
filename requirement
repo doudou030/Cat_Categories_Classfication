@@ -14,7 +14,7 @@ cp Cat_Categories_Classfication/img/3cat.jpg 3cat.jpg
 pip install kaggle
 chmod 600 /root/.kaggle/kaggle.json
 
-# 下載dataset
+# 下載classfication dataset
 kaggle datasets download -d denispotapov/cat-breeds-dataset-cleared
 
 # 解壓縮
